@@ -1,16 +1,15 @@
-### Hi there 👋
+#### `Sup?`
 
-<!--
-**ivoanjo/ivoanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`my name is Ivo Anjo, and i'm a software engineer @ aws`
 
-Here are some ideas to get you started:
+`i keep my personal repositories `[`on gitlab`](https://gitlab.com/ivoanjo)` instead of here, although I'll admit that the readme-in-profile functionality is rather neat and i've upvoted the feature request to `[`get it on gitlab`](https://gitlab.com/gitlab-org/gitlab/-/issues/232157).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`some of my repositories over there are:`
+
+* [`persistent-💎`](https://gitlab.com/ivoanjo/persistent-dmnd)` a ruby library for persistent/immutable data structures`
+
+* [`pry-debugger-jruby`](https://gitlab.com/ivoanjo/pry-debugger-jruby)` a library to enable interactive debugging when using `[`pry`](https://pry.github.io/)` on `[`jruby`](https://www.jruby.org/)
+
+* [`videos and slides for my conference and meetup talks`](https://gitlab.com/ivoanjo/talks)
+
+`if you've made it this far, you may also enjoy my blog which you can find at `[`ivoanjo.me`](https://ivoanjo.me)
