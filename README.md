@@ -1,6 +1,6 @@
 #### `Sup?`
 
-`my name is Ivo Anjo, and i'm a software engineer`
+`my name is Ivo Anjo, and i'm a software engineer @ datadog`
 
 `i keep my personal repositories `[`on gitlab`](https://gitlab.com/ivoanjo)` instead of here, although I'll admit that the readme-in-profile functionality is rather neat and i've upvoted the feature request to `[`get it on gitlab`](https://gitlab.com/gitlab-org/gitlab/-/issues/232157).
 
