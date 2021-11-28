@@ -1,6 +1,6 @@
 #### `Sup?`
 
-`my name is Ivo Anjo, and i have the pleasure to work as a senior engineer @ `[`datadog`](https://www.datadoghq.com/)` on `[`continuous profiling`](https://docs.datadoghq.com/tracing/profiler/)`.`
+`my name is Ivo Anjo, and i have the pleasure to work as a senior engineer @ `[`datadog`](https://www.datadoghq.com/)` on the `[`continuous profiler`](https://docs.datadoghq.com/tracing/profiler/)` team.`
 
 `i usually (but not exclusively!) work on the ruby profiling support shipped inside `[`dd-trace-rb`](https://github.com/DataDog/dd-trace-rb).
 
