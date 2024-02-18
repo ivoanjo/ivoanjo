@@ -1,16 +1,20 @@
 #### `Sup?`
 
-`my name is Ivo Anjo, and i have the pleasure to work as a senior engineer @ `[`datadog`](https://www.datadoghq.com/)` on the `[`continuous profiler`](https://docs.datadoghq.com/tracing/profiler/)` team.`
+`my name is Ivo Anjo, and i have the pleasure to work as a senior software engineer @ `[`datadog`](https://www.datadoghq.com/)` on the `[`continuous profiler`](https://docs.datadoghq.com/tracing/profiler/)` team.`
 
 `i usually (but not exclusively!) work on the ruby profiling support shipped inside `[`dd-trace-rb`](https://github.com/DataDog/dd-trace-rb).
 
 `i mix my personal repositories between `[`github`](https://github.com/ivoanjo)` and `[`gitlab`](https://gitlab.com/ivoanjo)`; some of my most interesting repositories are:`
 
-* [`persistent-💎`](https://gitlab.com/ivoanjo/persistent-dmnd)` a ruby library for persistent/immutable data structures`
+* [`gvl-tracing`](https://github.com/ivoanjo/gvl-tracing)`a ruby library to draw usage of ruby's global vm lock as a timeline view`
 
-* [`pry-debugger-jruby`](https://gitlab.com/ivoanjo/pry-debugger-jruby)` a library to enable interactive debugging when using `[`pry`](https://pry.github.io/)` on `[`jruby`](https://www.jruby.org/)
+* [`backtracie`](https://github.com/ivoanjo/backtracie)`a mad experiment on trying to get better backtrace information from the ruby vm`
 
-* [`backtracie`](https://github.com/ivoanjo/backtracie)` a mad experiment on trying to get better backtrace information from the ruby vm`
+* [`persistent-💎`](https://gitlab.com/ivoanjo/persistent-dmnd)`a ruby library for persistent/immutable data structures`
+
+* [`pry-debugger-jruby`](https://gitlab.com/ivoanjo/pry-debugger-jruby)`a library to enable interactive debugging when using `[`pry`](https://pry.github.io/)` on `[`jruby`](https://www.jruby.org/)
+
+* [`s3_website_revived`](https://github.com/ivoanjo/s3_website_revived)`a fork of a gem to easily maintain websites via AWS S3 that i seemed to somehow get hooked into maintaining ;)`
 
 * [`videos and slides for my conference and meetup talks`](https://gitlab.com/ivoanjo/talks)
 
